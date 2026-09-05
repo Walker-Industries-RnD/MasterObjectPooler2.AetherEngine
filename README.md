@@ -52,7 +52,7 @@ mop.GetObject("Bullet", spawnPosition);
 mop.ReleaseAll("Bullet");
 ```
 
-## Unity → Godot mapping
+## Unity To Godot mapping
 
 | Unity (MOP2)                        | Godot port                                             |
 |-------------------------------------|--------------------------------------------------------|
