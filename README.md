@@ -1,4 +1,9 @@
-# Master Object Pooler 2 — Aether Engine (Godot 4.7 / C#) port
+<img src="assets/Banner.png" alt="MOP2.AetherEngine" width="100%"/>
+
+
+# Master Object Pooler 2
+## Aether Engine (Godot 4.7 C#) port
+
 
 A faithful port of QFSW's **Master Object Pooler 2** (originally a Unity asset used by the XRUIOS)
 to the Aether Engine's Godot 4.7 + C# stack. The public API mirrors the original so existing usage
@@ -9,6 +14,34 @@ Ported for the XRUIOS, Echoes Online and Masuki Quest.
 Original: https://github.com/QFSW/MasterObjectPooler2
 
 Verified to compile clean (0 warnings / 0 errors) against `Godot.NET.Sdk/4.7.0`, `net8.0`.
+
+<div align="center">
+
+| ![WalkerDev](assets/walkerdev.png)                                                                                  | ![Kennaness](assets/kennaness.png)                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Code by WalkerDev**<br>“Loving coding is the same as hating yourself”<br>[Discord](https://discord.gg/H8h8scsxtH) | **Art by Kennaness**<br>“When will I get my isekai?”<br>[Bluesky](https://bsky.app/profile/kennaness.bsky.social) • [ArtStation](https://www.artstation.com/kennaness) |
+
+</div>
+
+<br>
+
+
+<br>
+<p align="center">
+  <a href="https://walkerindustries.xyz">Walker Industries</a> •
+  <a href="https://discord.gg/H8h8scsxtH">Discord</a> •
+</p>
+
+<p align="center">
+  <a href="https://aetherengine.xyz" 
+     style="font-size: 1.4em; color: #58a6ff; text-decoration: none;">
+    <strong> Aether Engine </strong>
+  </a>
+    <a href="https://github.com/Walker-Industries-RnD/MasterObjectPooler2.AetherEngine" 
+     style="font-size: 1.4em; color: #58a6ff; text-decoration: none;">
+    <strong> View The Original </strong>
+  </a>
+</p>
 
 ## Layout
 
