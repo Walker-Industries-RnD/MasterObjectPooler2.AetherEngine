@@ -33,15 +33,17 @@ Verified to compile clean (0 warnings / 0 errors) against `Godot.NET.Sdk/4.7.0`,
 </p>
 
 <p align="center">
-  <a href="https://aetherengine.xyz" 
+  <a href="https://aetherengine.xyz"
      style="font-size: 1.4em; color: #58a6ff; text-decoration: none;">
-    <strong> Aether Engine </strong>
+    <strong>Aether Engine</strong>
   </a>
-    <a href="https://github.com/Walker-Industries-RnD/MasterObjectPooler2.AetherEngine" 
+  •
+  <a href="https://github.com/QFSW/MasterObjectPooler2"
      style="font-size: 1.4em; color: #58a6ff; text-decoration: none;">
-    <strong> View The Original </strong>
+    <strong>View The Original</strong>
   </a>
 </p>
+
 
 ## Layout
 
