@@ -4,6 +4,10 @@ A faithful port of QFSW's **Master Object Pooler 2** (originally a Unity asset u
 to the Aether Engine's Godot 4.7 + C# stack. The public API mirrors the original so existing usage
 patterns carry over with minimal changes.
 
+Ported for the XRUIOS, Echoes Online and Masuki Quest.
+
+Original: https://github.com/QFSW/MasterObjectPooler2
+
 Verified to compile clean (0 warnings / 0 errors) against `Godot.NET.Sdk/4.7.0`, `net8.0`.
 
 ## Layout
@@ -91,3 +95,16 @@ These stem from real engine differences, not omissions:
 6. **`PoolableNode` base type.** The original `PoolableMonoBehaviour` was a component attachable to any
    object. The port derives from `Node3D` (attachable to any 3D node, including physics bodies). For 2D
    or `Control`-based pooled scenes, implement `IPoolable` directly instead.
+
+
+
+## License & Artwork
+
+**Code:** [NON-AI MPL 2.0](https://raw.githubusercontent.com/non-ai-licenses/non-ai-licenses/main/NON-AI-MPL-2.0)
+**Artwork:** — **NO AI training. NO reproduction. NO exceptions.**
+
+<img src="https://github.com/Walker-Industries-RnD/Malicious-Affiliation-Ban/blob/main/WIBan.png?raw=true" align="center" style="margin-left: 20px; margin-bottom: 20px;"/>
+
+> Unauthorized use of the artwork — including but not limited to copying, distribution, modification, or inclusion in any machine-learning training dataset — is strictly prohibited and will be prosecuted to the fullest extent of the law.
+
+
